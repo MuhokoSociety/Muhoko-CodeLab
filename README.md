@@ -1,4 +1,7 @@
 # Muhoko{Ed} Code Lab Google I/O Extended '19
-this is a code for a basic snake game for Google I/O Extended '19.
-it has the the basic controls for moving: up, down, left and right
-it continously records your score everytime the snake touches a square and keeps track of highscores
+This is a simple python snake game progam developed for Google I/O Extended '19.
+Has the following controls:
+  -Moving up,down ,left , right to consume a square in order to allow the snake to grow
+  -It continously records your score everytime the snake touches a square and keeps track of highscores
+  
+  
