@@ -195,8 +195,3 @@ while True:
     time.sleep(delay)
 
 wn.mainloop()
-
-
-
-#add code for super_food where it will be worth 50 points and will increase the segment by 3
-#theres a glitch in the controls where sharp turns is classified as touching the body
